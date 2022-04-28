@@ -37,3 +37,12 @@
     transform: translateY(0px);
   }
 }
+
+button {
+  background-color: rgb(112, 76, 182);
+  color: aliceblue;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+}
